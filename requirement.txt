@@ -1,0 +1,12 @@
+#python程序使用的一些依赖包
+# 这个文件可以用来创建一个环境:
+# $ conda create --name <env> --file <this file>
+# 平台: linux-64
+pytorch
+sklearn
+opencv-python
+tifffile
+scikit-image
+tqdm
+numpy
+
